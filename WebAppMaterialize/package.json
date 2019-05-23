@@ -1,0 +1,23 @@
+{
+  "name": "webappmaterialize",
+  "version": "1.0.0",
+  "description": "this is a web api running with express, ejs, and materialize for css.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "materialize",
+    "css",
+    "bower",
+    "webapp",
+    "bower"
+  ],
+  "author": "Juan Soto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0"
+  }
+}
