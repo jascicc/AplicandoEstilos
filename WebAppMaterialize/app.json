@@ -1,0 +1,8 @@
+{
+    "name": "Node.js Getting Started",
+    "description": "This is a web app example on how to integrate stylesheet with Ejs",
+    "repository": "https://github.com/jascicc/AplicandoEstilos",
+    "logo": "http://node-js-sample.herokuapp.com/node.svg",
+    "keywords": ["node", "express", "static", "ejs", "materialize", "bootstrap"],
+    "image": "heroku/nodejs"
+}
